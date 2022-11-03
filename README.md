@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi, i am Phil Schmidtke. A Full Stack Blockchain Developer @ Deutsche Telekom IT 👋
 
-<!--
-**schmidtke-phil/schmidtke-phil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Stack:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend
+  - React
+  - Next.js
+  - Angular
+  - Webpack Module Federation (MicroFrontends)
+  - Tailwindcss
+- Backend
+  - Spring Boot (Java)
+  - Nest.js (TS)
+  - Express (JS)
+- Other
+  - Solidity
+  - Hardhat
